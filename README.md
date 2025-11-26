@@ -1,6 +1,3 @@
-Here is a clean **README.md** for your project **Oakwood Academy**:
-
----
 
 # **Oakwood Academy**
 
