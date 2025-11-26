@@ -106,12 +106,6 @@ Pull requests are welcome! For major changes, open an issue first to discuss ide
 
 ---
 
-## 📄 **License**
-
-This project is licensed under the MIT License (or your chosen license).
-
----
-
 If you'd like, I can also generate:
 
 ✅ A professional project logo
